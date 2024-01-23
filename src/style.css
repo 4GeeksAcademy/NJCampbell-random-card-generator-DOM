@@ -1,1 +1,14 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.card {
+  background-color: white;
+  height: 400px;
+  width: 275px;
+}
+
+body {
+  background-color: green;
+}
+.top {
+  align-items: left;
+}
